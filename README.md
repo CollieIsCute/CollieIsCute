@@ -31,7 +31,7 @@
 ### Stat-boxes  
 
 - [GitHub](https://github.com/)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=collieiscute&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=collieiscute&show_icons=true&theme=dark)
 
 - [LeetCode](https://leetcode.com/)  
-![leetcode status](https://leetcard.jacoblin.cool/qetup1988)
+![leetcode status](https://leetcard.jacoblin.cool/qetup1988?ext=activity&theme=dark&radius=30)
